@@ -6,7 +6,7 @@ The project is built for situations where proof gets scattered, edited, deleted,
 
 The current MVP is live, frontend-first, and Shelby-ready.
 
-**Live MVP:** https://receipts-network.pages.dev  
+**Live product:** https://receipts-network.pages.dev  
 **Repository:** https://github.com/vaibhav0xq/receipts-network
 
 ---
